@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Pavan 👋
+Hi, I'm Pavan 👋
 
-<!--
-**PavanChougle/PavanChougle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finance & Data Analytics Enthusiast  
+Skills: Excel | Power BI | SQL | Data Cleaning | Financial Modeling  
 
-Here are some ideas to get you started:
+Projects:
+• Walmart Sales Dashboard (Power BI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Learning:
+• Advanced DAX
+• SQL for Data Analysis
+• Financial Modeling
+
+LinkedIn: https://www.linkedin.com/in/pavan-chougle-014799296?utm_source=share_via&utm_content=profile&utm_medium=member_android
+Email: PChogle86@gmail.com
