@@ -6,11 +6,7 @@ Skills: Excel | Power BI | SQL | Data Cleaning | Financial Modeling
 
 Projects:
 • Walmart Sales Dashboard (Power BI)
-
-Currently Learning:
-• Advanced DAX
-• SQL for Data Analysis
-• Financial Modeling
+• # SQL Sales Data Analysis Project
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-chougle-014799296/)
